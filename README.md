@@ -49,6 +49,12 @@ git remote set-url origin https://github.com/Mojeshahr/php-sms-webservice.git
 [![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)](https://github.com/Mojeshahr/swift-sms-webservice)
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)](https://github.com/Mojeshahr/ruby-sms-webservice)
 [![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?logo=dotnet&logoColor=white)](https://github.com/Mojeshahr/vbnet-sms-webservice)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://github.com/Mojeshahr/kotlin-sms-webservice)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://github.com/Mojeshahr/dart-sms-webservice)
+[![Delphi](https://img.shields.io/badge/Delphi-E62E2E?logo=delphi&logoColor=white)](https://github.com/Mojeshahr/delphi-sms-webservice)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)](https://github.com/Mojeshahr/powershell-sms-webservice)
+[![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white)](https://github.com/Mojeshahr/tsql-sms-webservice)
+[![curl](https://img.shields.io/badge/curl-073551?logo=curl&logoColor=white)](https://github.com/Mojeshahr/curl-sms-webservice)
 
 </div>
 
