@@ -41,6 +41,7 @@ dependencies, ready to copy into your project.
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://github.com/Mojeshahr/php-sms-webservice)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)](https://github.com/Mojeshahr/laravel-sms-webservice)
 [![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)](https://github.com/Mojeshahr/nodejs-sms-webservice)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/Mojeshahr/typescript-sms-webservice)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/Mojeshahr/python-sms-webservice)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://github.com/Mojeshahr/go-sms-webservice)
 [![Rust](https://img.shields.io/badge/Rust-CE422B?logo=rust&logoColor=white)](https://github.com/Mojeshahr/rust-sms-webservice)
