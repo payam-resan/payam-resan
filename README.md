@@ -42,6 +42,7 @@ git remote set-url origin https://github.com/Mojeshahr/php-sms-webservice.git
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)](https://github.com/Mojeshahr/laravel-sms-webservice)
 [![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)](https://github.com/Mojeshahr/nodejs-sms-webservice)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/Mojeshahr/typescript-sms-webservice)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](https://github.com/Mojeshahr/nextjs-sms-webservice)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/Mojeshahr/python-sms-webservice)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://github.com/Mojeshahr/go-sms-webservice)
 [![Rust](https://img.shields.io/badge/Rust-CE422B?logo=rust&logoColor=white)](https://github.com/Mojeshahr/rust-sms-webservice)
@@ -62,6 +63,10 @@ git remote set-url origin https://github.com/Mojeshahr/php-sms-webservice.git
 همه از یک [مرجع OpenAPI](https://github.com/Mojeshahr/sms-webservice-spec) واحد
 مشتق می‌شوند، پس مستندات سایت و نمونه‌کدها هیچ‌وقت دو جواب متفاوت به یک سؤال
 نمی‌دهند.
+
+یک [سرور MCP](https://github.com/Mojeshahr/mcp-sms-webservice) هم هست، برای
+وقتی که می‌خواهید یک دستیار هوش مصنوعی خودش پیامک بفرستد و گزارش تحویل را
+بخواند، بدون اینکه شما کدی بنویسید.
 
 ## از اینجا شروع کنید
 

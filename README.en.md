@@ -42,6 +42,7 @@ dependencies, ready to copy into your project.
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)](https://github.com/Mojeshahr/laravel-sms-webservice)
 [![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)](https://github.com/Mojeshahr/nodejs-sms-webservice)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/Mojeshahr/typescript-sms-webservice)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](https://github.com/Mojeshahr/nextjs-sms-webservice)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/Mojeshahr/python-sms-webservice)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://github.com/Mojeshahr/go-sms-webservice)
 [![Rust](https://img.shields.io/badge/Rust-CE422B?logo=rust&logoColor=white)](https://github.com/Mojeshahr/rust-sms-webservice)
@@ -63,6 +64,10 @@ They are all derived from a single
 [OpenAPI reference](https://github.com/Mojeshahr/sms-webservice-spec), so the
 site documentation and the examples never give two different answers to the same
 question.
+
+There is also an [MCP server](https://github.com/Mojeshahr/mcp-sms-webservice),
+for when you want an AI assistant to send the message and read the delivery
+report itself, without you writing any code.
 
 ## Get started
 
