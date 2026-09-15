@@ -62,12 +62,27 @@ dependencies, ready to copy into your project.
 
 They are all derived from a single
 [OpenAPI reference](https://github.com/Mojeshahr/sms-webservice-spec), so the
-site documentation and the examples never give two different answers to the same
-question.
+answer stays consistent across the site documentation and the examples.
 
 There is also an [MCP server](https://github.com/Mojeshahr/mcp-sms-webservice),
 for when you want an AI assistant to send the message and read the delivery
 report itself, without you writing any code.
+
+The browser-side examples are kept apart, in
+[browser-sms-webservice](https://github.com/Mojeshahr/browser-sms-webservice),
+written with `fetch`, `XMLHttpRequest`, jQuery and TypeScript. They are for
+testing and learning, not for a real site: the account key is visible to every
+visitor, and the browser refuses the request anyway over CORS. The
+explanation you need is in that repository's README.
+
+<div align="center">
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://github.com/Mojeshahr/browser-sms-webservice/tree/main/examples/v3-esm)
+[![ES5](https://img.shields.io/badge/ES5-F7DF1E?logo=javascript&logoColor=black)](https://github.com/Mojeshahr/browser-sms-webservice/tree/main/examples/v3-es5)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)](https://github.com/Mojeshahr/browser-sms-webservice/tree/main/examples/v3-jquery)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/Mojeshahr/browser-sms-webservice/tree/main/examples/v3-ts)
+
+</div>
 
 ## Get started
 

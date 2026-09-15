@@ -61,12 +61,27 @@ git remote set-url origin https://github.com/Mojeshahr/php-sms-webservice.git
 </div>
 
 همه از یک [مرجع OpenAPI](https://github.com/Mojeshahr/sms-webservice-spec) واحد
-مشتق می‌شوند، پس مستندات سایت و نمونه‌کدها هیچ‌وقت دو جواب متفاوت به یک سؤال
-نمی‌دهند.
+مشتق می‌شوند، تا یکپارچگی پاسخ در مستندات سایت و نمونه‌کدها حفظ شود.
 
 یک [سرور MCP](https://github.com/Mojeshahr/mcp-sms-webservice) هم هست، برای
 وقتی که می‌خواهید یک دستیار هوش مصنوعی خودش پیامک بفرستد و گزارش تحویل را
 بخواند، بدون اینکه شما کدی بنویسید.
+
+نمونه‌های سمت مرورگر جدا نگه داشته شده‌اند، در
+[browser-sms-webservice](https://github.com/Mojeshahr/browser-sms-webservice)،
+با `fetch` و `XMLHttpRequest` و jQuery و تایپ‌اسکریپت. آنها برای آزمودن و یاد
+گرفتن‌اند نه برای سایت واقعی: کلید حساب دست هر بازدیدکننده می‌افتد، و مرورگر هم
+به‌خاطر CORS اصلاً اجازه‌ی درخواست را نمی‌دهد. در README همان مخزن توضیحات لازم
+بیان شده است.
+
+<div align="center">
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://github.com/Mojeshahr/browser-sms-webservice/tree/main/examples/v3-esm)
+[![ES5](https://img.shields.io/badge/ES5-F7DF1E?logo=javascript&logoColor=black)](https://github.com/Mojeshahr/browser-sms-webservice/tree/main/examples/v3-es5)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)](https://github.com/Mojeshahr/browser-sms-webservice/tree/main/examples/v3-jquery)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/Mojeshahr/browser-sms-webservice/tree/main/examples/v3-ts)
+
+</div>
 
 ## از اینجا شروع کنید
 
