@@ -33,8 +33,11 @@ git remote set-url origin https://github.com/Mojeshahr/php-sms-webservice.git
 
 ## Examples per language
 
-Every language gets its own repository with one runnable file per API method, no
-dependencies, ready to copy into your project.
+Every language gets its own repository with one runnable file per API method,
+ready to copy into your project. Each repository's README lists its prerequisites.
+
+The API V3 examples include `SendTokenSingleConcatParam`: send a template with
+semicolon-separated values in one `p` string, over either GET or POST.
 
 <div align="center">
 
@@ -60,13 +63,12 @@ dependencies, ready to copy into your project.
 
 </div>
 
-They are all derived from a single
-[OpenAPI reference](https://github.com/Mojeshahr/sms-webservice-spec), so the
-answer stays consistent across the site documentation and the examples.
+The site documentation and examples use a single
+[OpenAPI reference](https://github.com/Mojeshahr/sms-webservice-spec) as their contract.
 
 There is also an [MCP server](https://github.com/Mojeshahr/mcp-sms-webservice),
 for when you want an AI assistant to send the message and read the delivery
-report itself, without you writing any code.
+report itself, without you writing any code. A complete rewrite for API V4 is planned.
 
 The browser-side examples are kept apart, in
 [browser-sms-webservice](https://github.com/Mojeshahr/browser-sms-webservice),

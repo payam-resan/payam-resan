@@ -33,8 +33,11 @@ git remote set-url origin https://github.com/Mojeshahr/php-sms-webservice.git
 
 ## نمونه‌کد هر زبان
 
-برای هر زبان یک مخزن جدا، با یک فایل قابل اجرا به‌ازای هر متد سرویس؛ بدون
-وابستگی، آماده‌ی کپی در پروژه‌ی خودتان.
+برای هر زبان یک مخزن جدا، با یک فایل قابل اجرا به‌ازای هر متد سرویس؛ با
+پیش‌نیازهای مشخص در README همان مخزن، آماده‌ی کپی در پروژه‌ی خودتان.
+
+نمونه‌های نسخه ۳ شامل `SendTokenSingleConcatParam` هم هستند: ارسال قالب با
+مقدارهای جداشده با `;` در یک رشته `p`، با هر دو روش GET و POST.
 
 <div align="center">
 
@@ -60,12 +63,12 @@ git remote set-url origin https://github.com/Mojeshahr/php-sms-webservice.git
 
 </div>
 
-همه از یک [مرجع OpenAPI](https://github.com/Mojeshahr/sms-webservice-spec) واحد
-مشتق می‌شوند، تا یکپارچگی پاسخ در مستندات سایت و نمونه‌کدها حفظ شود.
+مبنای مستندات سایت و نمونه‌کدها یک
+[مرجع OpenAPI](https://github.com/Mojeshahr/sms-webservice-spec) واحد است.
 
 یک [سرور MCP](https://github.com/Mojeshahr/mcp-sms-webservice) هم هست، برای
 وقتی که می‌خواهید یک دستیار هوش مصنوعی خودش پیامک بفرستد و گزارش تحویل را
-بخواند، بدون اینکه شما کدی بنویسید.
+بخواند، بدون اینکه شما کدی بنویسید. بازنویسی کامل آن برای نسخه ۴ در برنامه است.
 
 نمونه‌های سمت مرورگر جدا نگه داشته شده‌اند، در
 [browser-sms-webservice](https://github.com/Mojeshahr/browser-sms-webservice)،
